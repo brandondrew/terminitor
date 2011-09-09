@@ -105,7 +105,7 @@ window do
 end
 ````
 
-The newer Ruby DSL syntax allows for more complicated behavior such as window creation as well as setup blocks that can be executed prior loading a project.
+The newer Ruby DSL syntax allows for more complicated behavior such as window creation as well as setup blocks that can be executed prior to loading a project.
 
 ##### Tabs #####
 
